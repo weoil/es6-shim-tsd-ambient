@@ -1,0 +1,15 @@
+{
+  "name": "retyped-es6-shim-tsd-ambient",
+  "description": "TypeScript typings for es6-shim",
+  "version": "0.31.2-0",
+  "licence": "MIT",
+  "repository": "https://github.com/retyped/es6-shim-tsd-ambient",
+  "typescript": {
+    "definition": "es6-shim.d.ts"
+  },
+  "keywords": [
+    "retyped",
+    "tsd",
+    "tsd-ambient"
+  ]
+}
